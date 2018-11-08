@@ -1,0 +1,27 @@
+/* Styles go here */
+h1{
+font-weight:400;    /*вес шрифта 400 */
+font-size:36px;     /*размер шрифта 36 пикселя */
+margin-bottom:0;    /* Отступ снизу */
+}
+h2{
+font-size:32px;     /*размер шрифта 32 пикселя */
+font-weight:400;     /*вес шрифта 400 */
+border-bottom: 1px solid  grey;     /*граница снизу толщиной 1 пиксель серого цвета;*/
+margin-bottom:8px;     /* Отступ снизу */
+}
+h3{
+font-weight:400;      /*вес шрифта 400 */
+font-size:20px;       /*размер шрифта 20 пикселя */
+margin-bottom:0px;    /* Отступ снизу */
+}
+
+#header {
+  text-align: center;   /*выравнивание текста по центру */
+  margin-bottom:32px;     /* Отступ снизу */
+}
+
+#footer{
+  text-align:center;      /* выравнивание текста по центру */
+  margin-top: 64px;       /* отступ сверху 64 пикселя */
+}
